@@ -27,51 +27,35 @@ TCC com o foco em criar uma solução de comunicação alternativa para pessoas 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PHP"
+    title="PHP" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Flutter" 
+    title="Flutter"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="JSON" 
+    title="JSON"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" 
 />
 
 <br/>
