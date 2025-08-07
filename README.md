@@ -83,16 +83,4 @@ TCC com o foco em criar uma solução de comunicação alternativa para pessoas 
 
 ---
 
-### 🎯 Objetivos do Projeto
 
-- **Desenvolver uma plataforma acessível** para facilitar a comunicação de pessoas com autismo, utilizando imagens, símbolos e texto.
-- **Criar uma interface intuitiva e personalizada**, permitindo que os usuários possam adaptar a ferramenta conforme suas necessidades.
-- **Integrar tecnologias assistivas**, como leitores de tela e recursos de acessibilidade, para tornar a plataforma inclusiva.
-- **Testar a eficácia** da solução com usuários reais, buscando sempre a melhoria contínua da experiência do usuário.
-
-### 🚀 Como Executar o Projeto
-
-1. **Clone o repositório**:
-
-```bash
-git clone https://github.com/ianmoraess/comunicacao-alternativa-tcc.git
